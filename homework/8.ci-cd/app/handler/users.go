@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
-	"github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app/model"
+	"github.com/yansolov/geekbrains-conteinerization/practice/8.ci-cd/app/model"
 )
 
 func GetAllUsers(db *gorm.DB, w http.ResponseWriter, r *http.Request) {

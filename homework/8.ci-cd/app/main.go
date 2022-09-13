@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app/app"
-	"github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app/config"
+	"github.com/yansolov/geekbrains-conteinerization/practice/8.ci-cd/app/app"
+	"github.com/yansolov/geekbrains-conteinerization/practice/8.ci-cd/app/config"
 )
 
 func main() {

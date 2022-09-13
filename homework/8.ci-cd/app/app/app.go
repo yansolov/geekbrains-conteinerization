@@ -7,9 +7,9 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
-	"github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app/config"
-	"github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app/handler"
-	"github.com/pauljamm/geekbrains-conteinerization/practice/8.ci-cd/app/model"
+	"github.com/yansolov/geekbrains-conteinerization/practice/8.ci-cd/app/config"
+	"github.com/yansolov/geekbrains-conteinerization/practice/8.ci-cd/app/handler"
+	"github.com/yansolov/geekbrains-conteinerization/practice/8.ci-cd/app/model"
 )
 
 // App has router and db instances
